@@ -1,0 +1,26 @@
+Image 1 file: /home/scott/cudaBeliefPropagation/stereoData/Venus/refIm.pgm
+Image 2 file: /home/scott/cudaBeliefPropagation/stereoData/Venus/testIm.pgm
+motionImageFileSave: /home/scott/cudaBeliefPropagation/stereoData/Venus/outDispIm.pgm
+widthInputImages: 434
+heightInputImages: 383
+numBeliefPropLevels: 7
+numItersInBeliefPropLevel: 1000
+dataCostCap: 15
+smoothnessCostCap: 1.7
+dataCostWeight: 0.07
+currMoveIncr: 2
+samplingLevel: 1
+xMoveMin: -20
+xMoveMax: 0
+yMoveMin: 0
+yMoveMax: 0
+motionDisplayRange: 10
+groundTruthMoveFlo: /home/scott/cudaBeliefPropagation/other-gt-flow/Venus/flow10.flo
+motionFloFileSave: /home/scott/cudaBeliefPropagation/stereoData/Venus/outFlow.flo
+propChangeMove: 0.5
+smoothingSigma: 0
+Total belief propagation running time: 25396.734375 
+OUT_IMAGE_SAVED
+FILE_SAVE_PATH: /home/scott/cudaBeliefPropagation/stereoData/Venus/outDispIm.pgm
+
+Press ENTER to exit...

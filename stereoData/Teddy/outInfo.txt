@@ -1,0 +1,26 @@
+Image 1 file: /home/scott/cudaBeliefPropagation/stereoData/Teddy/refIm.pgm
+Image 2 file: /home/scott/cudaBeliefPropagation/stereoData/Teddy/testIm.pgm
+motionImageFileSave: /home/scott/cudaBeliefPropagation/stereoData/Teddy/outDispIm.pgm
+widthInputImages: 450
+heightInputImages: 375
+numBeliefPropLevels: 7
+numItersInBeliefPropLevel: 1000
+dataCostCap: 15
+smoothnessCostCap: 1.7
+dataCostWeight: 0.07
+currMoveIncr: 2
+samplingLevel: 1
+xMoveMin: -60
+xMoveMax: 0
+yMoveMin: 0
+yMoveMax: 0
+motionDisplayRange: 10
+groundTruthMoveFlo: /home/scott/cudaBeliefPropagation/other-gt-flow/Venus/flow10.flo
+motionFloFileSave: /home/scott/cudaBeliefPropagation/stereoData/Teddy/outFlow.flo
+propChangeMove: 0.5
+smoothingSigma: 0
+Total belief propagation running time: 96336.273438 
+OUT_IMAGE_SAVED
+FILE_SAVE_PATH: /home/scott/cudaBeliefPropagation/stereoData/Teddy/outDispIm.pgm
+
+Press ENTER to exit...

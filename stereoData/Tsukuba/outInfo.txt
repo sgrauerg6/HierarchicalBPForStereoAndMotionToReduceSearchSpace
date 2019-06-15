@@ -1,0 +1,31 @@
+Image file path base: /home/scott/cudaBeliefPropagation/eval-data-gray/Evergreen/frame
+Start image num: 7
+End image num: 12
+Image file path extension: .pgm
+motionImageFileSave: /home/scott/cudaBeliefPropagation/eval-data-gray/Evergreen/outMotionIm.pgm
+widthInputImages: 640
+heightInputImages: 480
+numBeliefPropLevels: 7
+numItersInBeliefPropLevel: 1000
+dataCostCap: 15
+smoothnessCostCap: 1e+06
+dataCostWeight: 0.07
+currMoveIncr: 30
+samplingLevel: 1
+xMoveMin: -60
+xMoveMax: 60
+yMoveMin: -60
+yMoveMax: 60
+motionDisplayRange: 10
+groundTruthMoveFlo: /home/scott/cudaBeliefPropagation/other-gt-flow/Venus/flow10.flo
+motionFloFileSave: /home/scott/cudaBeliefPropagation/other-data-gray/Venus/outFlow.flo
+propChangeMove: 0.5
+smoothingSigma: 0
+estMoveCap: 0.5
+estMoveWeight: 0
+Image File Path: (CB/home/scott/cudaBeliefPropagation/eval-data-gray/Evergreen/frame7.pgm
+Image File Path: (CB/home/scott/cudaBeliefPropagation/eval-data-gray/Evergreen/frame7.pgm/home/scott/cudaBeliefPropagation/eval-data-gray/Evergreen/frame8.pgm
+Image File Path: (CB/home/scott/cudaBeliefPropagation/eval-data-gray/Evergreen/frame7.pgm/home/scott/cudaBeliefPropagation/eval-data-gray/Evergreen/frame8.pgm/home/scott/cudaBeliefPropagation/eval-data-gray/Evergreen/frame9.pgm
+Image File Path: (CB/home/scott/cudaBeliefPropagation/eval-data-gray/Evergreen/frame7.pgm/home/scott/cudaBeliefPropagation/eval-data-gray/Evergreen/frame8.pgm/home/scott/cudaBeliefPropagation/eval-data-gray/Evergreen/frame9.pgm/home/scott/cudaBeliefPropagation/eval-data-gray/Evergreen/frame10.pgm
+Image File Path: (CB/home/scott/cudaBeliefPropagation/eval-data-gray/Evergreen/frame7.pgm/home/scott/cudaBeliefPropagation/eval-data-gray/Evergreen/frame8.pgm/home/scott/cudaBeliefPropagation/eval-data-gray/Evergreen/frame9.pgm/home/scott/cudaBeliefPropagation/eval-data-gray/Evergreen/frame10.pgm/home/scott/cudaBeliefPropagation/eval-data-gray/Evergreen/frame11.pgm
+Image File Path: (CB/home/scott/cudaBeliefPropagation/eval-data-gray/Evergreen/frame7.pgm/home/scott/cudaBeliefPropagation/eval-data-gray/Evergreen/frame8.pgm/home/scott/cudaBeliefPropagation/eval-data-gray/Evergreen/frame9.pgm/home/scott/cudaBeliefPropagation/eval-data-gray/Evergreen/frame10.pgm/home/scott/cudaBeliefPropagation/eval-data-gray/Evergreen/frame11.pgm/home/scott/cudaBeliefPropagation/eval-data-gray/Evergreen/frame12.pgm
