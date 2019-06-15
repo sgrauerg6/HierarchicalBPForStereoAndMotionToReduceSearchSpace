@@ -21,7 +21,7 @@ This README describes an implementation of our hierarchical CUDA belief propagat
 for stereo and motion estimation as described in our paper "Hierarchical belief propagation 
 to reduce search space using cuda for stereo and motion estimation" which was published at 
 IEEE Workshop on Applications of Computer Vision (WACV) 2009 (available at
-http://www.cis.udel.edu/~grauerg/hiarchBeliefProp.pdf) and containing extensions
+http://scottgg.net/hiarchBeliefProp.pdf) and containing extensions
 for future work (that never ended up being published).
 
 Please cite this work if using any of this code as part of a research paper or other work.
